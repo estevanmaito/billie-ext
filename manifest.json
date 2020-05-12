@@ -1,0 +1,11 @@
+{
+  "name": "Billie",
+  "version": "0.1",
+  "description": "Accessibility error detector.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_title": "Billie",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
